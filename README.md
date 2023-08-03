@@ -42,5 +42,5 @@ Build and Run the Application:
 In VS Code, go to the "Run and Debug" view, select the launch configuration you created, and click the green "Run" button to build and run your application on the Tomcat server.
 Access the Application:
 
-Once the server is running, open a web browser and go to http://localhost:8080/your-app-context where your-app-context is the context path of your web application (e.g., if your project is named PatientProject, the context path will be /PatientProject).
-That's it! Now you should have your Java web application up and running using Apache Tomcat in Visual Studio Code. Remember to modify the RegisterServlet.java to include your actual email sending logic in a real-world scenario.
+Once the server is running, open a web browser and go to http://localhost:8080/PatientProject where your-app-context is the context path of your web application (e.g., if your project is named PatientProject, the context path will be /PatientProject).
+That's it! Now you should have your Java web application up and running using Apache Tomcat in Visual Studio Code. 
