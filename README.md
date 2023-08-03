@@ -1,6 +1,6 @@
 I used VS CODE and Xaamp for this project.
 
-Sure! To set up and run the Java web application using VS Code, follow these steps:
+To set up and run the Java web application using VS Code, follow these steps:
 
 Install Java Development Kit (JDK):
 
