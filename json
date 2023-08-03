@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Tomcat: PatientProject",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "startup": "http://localhost:8080/PatientProject/",
+            "webappDirectory": "${workspaceFolder}/WebContent",
+            "sourceDirectory": "${workspaceFolder}/src",
+            "warPackage": "/path/to/your/war/PatientProject.war"
+        }
+    ]
+}
